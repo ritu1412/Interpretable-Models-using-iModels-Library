@@ -40,3 +40,4 @@ To run this project go to the main notebook and simply open them in Google Colab
 
 - **iModels Library**: [GitHub Repository](https://github.com/csinva/imodels) — A library for concise and interpretable machine learning models.
 - **Datasets**: Datasets are sourced from Kaggle and the iModels library.
+- **Images**: DALLE and Claude used for image generation
